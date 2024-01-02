@@ -1,6 +1,3 @@
-import React, { useState, useCallback } from 'react';
-/*! For license information please see bundle.js.LICENSE.txt */
-
 (()=>{
     "use strict";
     var e = {
